@@ -107,10 +107,6 @@ func TestGetAccountAPI(t *testing.T){
 
 		
 	}
-
-	
-
-	
 }
 
 func randomAccount() db.Account{
